@@ -2,7 +2,7 @@
 
 🎓 MTech AI/ML @ VIT | 📍 Vellore, India  
 🔭 Currently working on: GradCAM++ + RAG + LLM for medical image explainability  
-🏢 Intern @ Magna International — Intern - Radar
+🏢 Intern @ Magna International — Intern (Radar)  
 📄 Published in IEEE | 🧠 Passionate about Computer Vision & LLMs
 
 ## 🛠️ Tech Stack
