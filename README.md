@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vishalini 👋
 
-<!--
-**Vishalini-27/Vishalini-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MTech AI/ML @ VIT | 📍 Vellore, India  
+🔭 Currently working on: GradCAM++ + RAG + LLM for medical image explainability  
+🏢 Intern @ Magna International — Radar & ADAS Team  
+📄 Published in IEEE | 🧠 Passionate about Computer Vision & LLMs
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+| Project | Description |
+|---|---|
+| [GradCAM++ RAG Pipeline](link) | Explainability for gastrointestinal imaging using EfficientNet-B0 + LLM |
+| [parallelANN](https://github.com/Vishalini-27/parallelANN) | Fruit disease detection with parallelised ANN |
+| [SeniorCare](https://github.com/Vishalini-27/SeniorCareWebApp) | Predictive health analytics for senior citizens |
+
+📫 Reach me: vishalinip27@gmail.com | [LinkedIn](https://www.linkedin.com/in/vishalini2709/)
